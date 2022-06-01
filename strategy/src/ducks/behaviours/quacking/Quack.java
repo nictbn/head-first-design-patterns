@@ -1,0 +1,8 @@
+package ducks.behaviours.quacking;
+
+public class Quack implements QuackBehaviour {
+    @Override
+    public void quack() {
+        System.out.println("Quack");
+    }
+}
