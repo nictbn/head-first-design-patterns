@@ -1,3 +1,5 @@
+package simple_implementation;
+
 import simple_implementation.display_elements.*;
 import simple_implementation.subject.WeatherData;
 
