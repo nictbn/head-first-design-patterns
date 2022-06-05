@@ -1,4 +1,4 @@
-package beverages;
+package starbuzz.beverages;
 
 public class Decaf extends Beverage {
     public Decaf() {

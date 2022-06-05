@@ -1,6 +1,6 @@
-package condiments;
+package starbuzz.condiments;
 
-import beverages.Beverage;
+import starbuzz.beverages.Beverage;
 
 public class Mocha extends CondimentDecorator {
     Beverage beverage;

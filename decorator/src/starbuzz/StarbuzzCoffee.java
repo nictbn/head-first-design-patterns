@@ -1,10 +1,12 @@
-import beverages.Beverage;
-import beverages.DarkRoast;
-import beverages.Espresso;
-import beverages.HouseBlend;
-import condiments.Mocha;
-import condiments.Soy;
-import condiments.Whip;
+package starbuzz;
+
+import starbuzz.beverages.Beverage;
+import starbuzz.beverages.DarkRoast;
+import starbuzz.beverages.Espresso;
+import starbuzz.beverages.HouseBlend;
+import starbuzz.condiments.Mocha;
+import starbuzz.condiments.Soy;
+import starbuzz.condiments.Whip;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {
